@@ -2,7 +2,7 @@
 
 ## The landing page of the cat accessories and fashion store "The Great Gatsby" created based on HTML & CSS courses on htmlacademy.ru
 
-Plan to add some interactive behavior (popus, forms, etc.) using JavaScript
+Plan to add some interactive behavior (pop-ups, forms, etc.) using JavaScript
 
 Webpage preview:
 ---
