@@ -1,6 +1,6 @@
 # The Great Keksby
 
-## The landing page of the cat accessories and fashion store "The Great Gatsby" created based on the HTML & CSS courses on htmlacademy.ru
+## The landing page of the cat accessories and fashion store "The Great Gatsby" created based on HTML & CSS courses on htmlacademy.ru
 
 Plan to add some interactive behavior (popus, forms, etc.) using JavaScript
 
