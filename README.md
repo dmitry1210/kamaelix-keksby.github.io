@@ -2,6 +2,8 @@
 
 ## The landing page of the cat accessories and fashion store "The Great Gatsby" created based on HTML & CSS courses on htmlacademy.ru
 
+[Website link](https://dmitry1210.github.io/the-great-keksby)
+
 Project details:
 * Stack: HTML5, CSS3
 * Type: Landing page
