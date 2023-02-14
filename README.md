@@ -9,7 +9,6 @@ Project details:
 * Type: Landing page
 * Optimization: Desktop only
 
-_Plan to add some interactive behavior (pop-ups, forms, etc.) using JavaScript_
 
 ### Webpage preview:
 
