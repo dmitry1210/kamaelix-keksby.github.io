@@ -4,8 +4,6 @@
 
 <a href="https://dmitry1210.github.io/the-great-keksby" target="_blank">Website link</a>
 
-[link]("https://dmitry1210.github.io/the-great-keksby") {:target="_blank"}
-
 Project details:
 * Stack: HTML5, CSS3
 * Type: Landing page
